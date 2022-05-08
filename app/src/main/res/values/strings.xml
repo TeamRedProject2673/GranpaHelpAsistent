@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">GranpaHelpAsistent</string>
+
+    //TODOS LOS TEXTOS DE LA APP
+    <string name="txt_usuario">Usuario o Correo</string>
+    <string name="txt_password">Contraseña</string>
+    //BOTONES
+    <string name="btn_iniciar">Iniciar</string>
+    //MENSAJES DE ERROR O AYUDA
+    <string name="mnsj_text_ayuda">*Campo Obligatorio*</string>
 </resources>
