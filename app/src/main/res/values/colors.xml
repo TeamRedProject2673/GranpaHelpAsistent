@@ -8,6 +8,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="black">#FF000000</color>
     //TODOS LOS COLORES DE LA APP
+    <color name="color_btn_iniciar">#305496</color>
     <color name="portada_app">#E8EAF6</color>
     <color name="text_color">#FF000000</color>
     <color name="text_fondo_color">#FFFFFFFF</color>
